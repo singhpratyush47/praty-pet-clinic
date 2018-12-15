@@ -1,0 +1,5 @@
+com\petClinic\praty\model\Vet.class
+com\petClinic\praty\model\Person.class
+com\petClinic\praty\model\Pet.class
+com\petClinic\praty\model\Owner.class
+com\petClinic\praty\model\PetType.class
