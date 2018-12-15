@@ -1,5 +1,5 @@
 package com.petClinic.praty.model;
 
-public class PetType {
+public class PetType extends BaseEntity {
 
 }
