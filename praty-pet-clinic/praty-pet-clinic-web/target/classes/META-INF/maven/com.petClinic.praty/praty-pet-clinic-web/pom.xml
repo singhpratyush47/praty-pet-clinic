@@ -9,7 +9,7 @@
 		<artifactId>praty-pet-clinic</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<groupId>com.petClinic.web</groupId>
+	<groupId>com.petClinic.praty</groupId>
 	<artifactId>praty-pet-clinic-web</artifactId>
 	<!-- <packaging>war</packaging> -->
 	<name>praty-pet-clinic-web Maven Webapp</name>

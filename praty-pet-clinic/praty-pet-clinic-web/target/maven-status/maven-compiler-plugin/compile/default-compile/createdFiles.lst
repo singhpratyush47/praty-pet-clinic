@@ -1,0 +1,5 @@
+com\petClinic\praty\bootstrap\DataLoader.class
+com\petClinic\praty\PratyPetClinicApplication.class
+com\petClinic\praty\controllers\OwnerController.class
+com\petClinic\praty\controllers\VetController.class
+com\petClinic\praty\controllers\IndexController.class

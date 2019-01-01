@@ -1,0 +1,14 @@
+com\petClinic\praty\model\Person.class
+com\petClinic\praty\model\Pet.class
+com\petClinic\praty\services\map\VetServiceMap.class
+com\petClinic\praty\model\Owner.class
+com\petClinic\praty\services\map\AbstractMapService.class
+com\petClinic\praty\model\PetType.class
+com\petClinic\praty\services\PetService.class
+com\petClinic\praty\model\Vet.class
+com\petClinic\praty\services\OwnerService.class
+com\petClinic\praty\services\VetService.class
+com\petClinic\praty\model\BaseEntity.class
+com\petClinic\praty\services\CrudService.class
+com\petClinic\praty\services\map\PetServiceMap.class
+com\petClinic\praty\services\map\OwnerServiceMap.class
